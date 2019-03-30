@@ -1,15 +1,14 @@
 package com.sergiorosa.sergiorosafullstackappangularspringboot.model;
 
 public class Self {
-	private String ref;
 
-	public String getRef() {
-		return ref;
-	}
+    private String ref;
 
-	public void setRef(String ref) {
-		this.ref = ref;
-	}
-	
-	
+    public String getRef() {
+        return ref;
+    }
+
+    public void setRef(String ref) {
+        this.ref = ref;
+    }
 }
